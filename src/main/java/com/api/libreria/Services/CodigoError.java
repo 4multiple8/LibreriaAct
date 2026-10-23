@@ -1,0 +1,11 @@
+package com.api.libreria.Services;
+
+public enum CodigoError {
+
+    ESTUDIANTE_NO_ENCONTRADO,
+    LIBRO_NO_ENCONTRADO,
+    LIBRO_NO_DISPONIBLE,
+    PRESTAMO_NO_ENCONTRADO,
+    ESTUDIANTE_INACTIVO,
+    DATOS_INVALIDOS
+}
